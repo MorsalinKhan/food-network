@@ -1,3 +1,32 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+.one-after-another{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+.color-highlite{
+    color: #F2994A;
+}
+.half-width{
+    width: 50%;
+    margin: 7%;
+    height: 600;
+}
+.half-width img{
+    width: 100%
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 20px 50px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 500;
+}
+.link-margin{
+    margin-top: 50px;
+}
