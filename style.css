@@ -1,6 +1,16 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+.top-ber{
+    margin-top: 2%;
+    margin-left: 50%;
+}
+.top-link-button{
+    text-decoration: none;
+    color: black;
+    padding: 20px 20px;
+    font-weight: bold;
+}
 .one-after-another{
     display: flex;
 }
